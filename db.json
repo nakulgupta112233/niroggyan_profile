@@ -2,103 +2,128 @@
   "age_gender_data": [
     {
       "id": 1,
-      "age": 1,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 2,
-      "age": 2,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 3,
-      "age": 1,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 4,
-      "age": 7,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 5,
-      "age": 10,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 6,
-      "age": 3,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 7,
-      "age": 4,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 8,
-      "age": 5,
-      "gender": "male"
+     "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 9,
-      "age": 9,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 10,
-      "age": 8,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 11,
-      "age": 6,
-      "gender": "male"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 12,
-      "age": 5,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 13,
-      "age": 2,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 14,
-      "age": 7,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 15,
-      "age": 3,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 16,
-      "age": 4,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 17,
-      "age": 9,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 18,
-      "age": 10,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 19,
-      "age": 8,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
     },
     {
       "id": 20,
-      "age": 6,
-      "gender": "female"
+      "emp_id": 1,
+      "status": "male"
+    },
+    {
+      "id": 21,
+      "emp_id": 1,
+      "status": "male"
+    },
+    {
+      "id": 22,
+      "emp_id": 1,
+      "status": "male"
+    },
+    {
+      "id": 23,
+      "emp_id": 1,
+      "status": "male"
+    },
+    {
+      "id": 24,
+      "emp_id": 1,
+      "status": "male"
+    },
+    {
+      "id": 25,
+      "emp_id": 1,
+      "status": "male"
     }
   ]
 }
